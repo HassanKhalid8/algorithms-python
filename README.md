@@ -1,4 +1,5 @@
 # algorithms-python
+n![tests](https://github.com/HassanKhalid8/algorithms-python/actions/workflows/tests.yml/badge.svg)
 
 Clean, tested implementations of classic algorithms and data structures in pure Python (standard library only).
 
