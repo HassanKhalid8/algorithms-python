@@ -1,5 +1,6 @@
 # algorithms-python
-n![tests](https://github.com/HassanKhalid8/algorithms-python/actions/workflows/tests.yml/badge.svg)
+
+![tests](https://github.com/HassanKhalid8/algorithms-python/actions/workflows/tests.yml/badge.svg)
 
 Clean, tested implementations of classic algorithms and data structures in pure Python (standard library only).
 
@@ -10,9 +11,9 @@ Clean, tested implementations of classic algorithms and data structures in pure 
 | `algorithms/sorting.py` | bubble, insertion, merge, quick, heap, counting sort |
 | `algorithms/searching.py` | linear, binary, lower/upper bound, exponential search |
 | `algorithms/data_structures.py` | stack, queue, min-heap, linked list, union-find, trie |
-| `algorithms/graphs.py` | BFS, DFS, Dijkstra, topological sort, cycle detection |
-| `algorithms/dynamic_programming.py` | fibonacci, knapsack, LCS, LIS, edit distance, coin change |
-| `algorithms/strings.py` | palindrome, anagram, KMP search, Rabin-Karp, run-length encoding |
+| `algorithms/graphs.py` | BFS, DFS, shortest path, Dijkstra, topological sort, cycle detection, connected components |
+| `algorithms/dynamic_programming.py` | fibonacci, knapsack, LCS, LIS, edit distance, coin change, max subarray (Kadane) |
+| `algorithms/strings.py` | palindrome, anagram, KMP, Rabin-Karp, run-length encoding, longest palindromic substring |
 
 ## Usage
 
